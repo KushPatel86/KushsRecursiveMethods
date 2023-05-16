@@ -1,6 +1,6 @@
 /**
  * 
- * @author Menduyarka Samuel Dennis
+ * @author Kush Patel
  */
 public class RecursionProject2 {
 
